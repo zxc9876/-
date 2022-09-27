@@ -1,0 +1,9 @@
+begin
+	if a<b then
+	begin
+		a:=(a+b)*c;
+		b:=-c
+	end;
+	d:=exp*exp;
+	result:=a+b+d
+end

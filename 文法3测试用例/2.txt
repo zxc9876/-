@@ -1,0 +1,6 @@
+begin
+	begin 
+		a:=b+d*c
+	end;
+	if a>=num or b>num then a:=-b
+end

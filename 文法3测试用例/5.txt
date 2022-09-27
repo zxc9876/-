@@ -1,0 +1,10 @@
+begin
+	begin
+	if true then
+		if (false) then
+			n:=0
+	if (i>10) then
+		if (i>20) then
+			n:=100
+	end
+end
